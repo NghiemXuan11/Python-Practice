@@ -29,4 +29,4 @@ img01.save(new_img_png_01_path)
 
 
 # Dong tap tin
-# img01.close()
+img01.close()
